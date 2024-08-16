@@ -1,0 +1,51 @@
+make,model,price,performance,reliability,luxury,fuel_economy,year
+Toyota,Camry,3,3,5,3,4,2023
+Honda,Accord,3,3,5,3,4,2021
+Ford,Mustang,4,5,3,3,2,2006
+Chevrolet,Malibu,2,3,4,2,4,2016
+Nissan,Altima,3,3,4,3,4,2017
+Subaru,Impreza,2,3,4,2,4,2018
+BMW,3 Series,4,4,3,4,3,2017
+Audi,A4,4,4,3,4,3,2016
+Mercedes-Benz,C-Class,4,4,3,5,3,2015
+Volkswagen,Jetta,2,3,4,2,4,2014
+Hyundai,Sonata,2,3,4,2,4,2019
+Kia,Optima,2,3,4,2,4,2011
+Chevrolet,Cruze,2,2,4,2,4,2011
+Ford,Fusion,2,3,4,3,4,2010
+Toyota,Corolla,2,2,5,2,5,2009
+Honda,Civic,2,2,5,2,5,2008
+Mazda,Mazda3,2,3,4,2,4,2007
+Acura,TL,3,4,4,4,3,2006
+Nissan,Maxima,3,4,4,3,3,2005
+Infiniti,G35,3,4,4,4,3,2004
+Lexus,ES 300,3,3,4,4,3,2003
+BMW,5 Series,4,4,3,5,3,2002
+Mercedes-Benz,E-Class,4,4,3,5,3,2001
+Audi,A6,4,4,3,5,3,2000
+Ford,Taurus,2,2,4,2,3,1999
+Toyota,Avalon,3,3,5,3,3,1998
+Honda,Prelude,3,4,4,3,3,1997
+Chevrolet,Camaro,3,4,3,3,2,1996
+Nissan,300ZX,3,4,3,3,2,1995
+Ford,Bronco,4,4,4,4,3,2023
+Tesla,Model 3,4,4,4,4,5,2022
+Jeep,Grand Cherokee,4,4,4,4,3,2021
+Hyundai,Palisade,3,3,4,4,3,2020
+Kia,Telluride,3,3,4,4,3,2019
+Volvo,XC90,4,3,4,5,3,2018
+Alfa Romeo,Giulia,4,4,3,5,3,2017
+Cadillac,CT6,4,4,3,5,3,2016
+Chrysler,300,4,4,3,5,3,2015
+Dodge,Charger,3,4,3,3,3,2014
+Ford,Focus,2,3,4,2,4,2009
+Subaru,Outback,3,3,4,3,4,2012
+Toyota,Highlander,3,3,5,3,3,2011
+Mazda,CX-9,3,3,4,3,3,2010
+Hyundai,Genesis,3,4,4,4,3,2008
+Nissan,Rogue,2,3,4,2,4,2008
+Honda,Fit,2,2,4,2,5,2007
+Toyota,Yaris,2,2,5,2,5,2006
+Scion,tC,2,3,4,2,4,2005
+Mitsubishi,Lancer Evolution,3,5,3,3,3,2004
+Subaru,WRX,3,4,4,3,3,2003
