@@ -1,5 +1,4 @@
 """Finds the best car for the user based on their preferences."""
-import sys
 import re
 import csv
 
@@ -192,7 +191,7 @@ def main():
    
    """
    
-   print("Welcome to CarFinder.")
+   print("Welcome to Car Hunt.")
    cars = get_cars("car_options.csv")
    car_search = CarSearch(cars)
    
